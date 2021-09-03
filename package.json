@@ -1,0 +1,20 @@
+{
+  "name": "anytest",
+  "version": "0.1.0",
+  "description": "First try of slack bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.980.0",
+    "axios": "^0.21.1",
+    "uuid": "^8.3.2"
+  }
+}
